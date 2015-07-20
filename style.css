@@ -1,0 +1,93 @@
+h1 {
+	font-size: 50px;
+	color: #FF0066;
+	border: 15px solid #0066FF;
+	background-color: #CCF5FF;
+	padding: 5px 10px 5px 10px;
+	margin: auto;
+	margin-bottom: 20px;
+	width: 50%;
+	text-align: center;
+	font-family: 'Comic Sans', Comic Sans MS, cursive;
+}
+#para1 {
+	font-size: 25px;
+	color: #008F47;
+	text-align:center;
+}
+form {
+	background-color: #D8CFD8;
+	background: -webkit-gradient(linear, bottom, left 175px, from(#CCCCCC), to(#EEEEEE));
+	background: -moz-linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
+	margin:auto;
+	margin-bottom: 15px;
+	text-align: center;
+	position:relative;
+	width:550px;
+	height:500px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 24px;
+	font-weight: bold;
+	color: #660066;
+	text-decoration: none;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	padding:10px;
+	border: 1px solid #999;
+	border: inset 1px solid #333;
+	-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+input {
+	border: solid 2px #660066;
+	color: purple;
+	font-family: Times New Roman;
+	background-color: white;
+	padding: 5px;
+	margin: 5px;
+}
+h2 {
+	text-align: center;
+	color: purple;
+}
+#employeeChart p{
+	width:150px;
+	margin-left:35;
+}
+#randomEmployeeChart p{
+	width 150px;
+	margin-left 30px;
+}
+.employee p{
+	width:130px;
+	float: left;
+}
+.clearfix{
+	clear: both;
+}
+.review1{
+	background-color: red;
+	float: left;
+	color:black;
+	font-style: bold;
+}
+.review2{
+	background-color: orange;
+	float: left;
+
+}
+.review3{
+	float: left;
+	background-color: yellow;
+}
+.review4{
+	float: left;
+	background-color: #94E994;
+}
+.review5{
+	float: left;
+		background-color: #green;
