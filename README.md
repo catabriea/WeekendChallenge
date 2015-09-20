@@ -1,7 +1,17 @@
-# WeekendChallenge
+Gamma's first weekend challenge!
 
-I tried to go hard mode and create a random EMployee function...however, I just couldn't get it to fire properly.
+Let's recap the entire week! This challenge will use 'all of the things' you have learned this week, and perhaps a little more. You will be building a system that manages employee information.
 
-I orignally had a alot more styling on my CSS but for some reason it was overriding my employeechart and I couldn't see populated results.
+Make a form that can capture and employees; First Name, Last Name, Employee Number, Title, Last Review Score, and Salary. Store that information in an object.
+Then, with that information captured, construct a list that populates with the most current employee information. Meaning that there should be a full list of employees represented on the screen.
+Not only should the employee information be present, but also add a 'remove' button grouped next to each employees information. Clicking that button, should remove that specific employee.
+In the review score section, make sure to put some sort of color indicator based on their review. The employee reviews should only be able to be 1 - 5. 5 would indicate a good score, 1 would be poor.
+The system need not persist when the page refresh. Meaning that a page refresh will reload the entire screen. The submission should be as visually appealing as possible, and there will be some consideration of styling when you submission is reviewed.
 
-I hope this is sufficient. I spent about 6+ hours doing this...It was very challenging, but I did remember quite a bit from this week's lessons.
+Hard Mode
+
+Include a button to generate a competely random employee. As one more step of hard mode, alphabetically sort the employees in the generated list.
+
+Pro Mode
+
+Include a section at the top of the page that totals the salaries of all the employees (Hint: the trick will be what happens when you remove an employee).
